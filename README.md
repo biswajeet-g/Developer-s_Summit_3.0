@@ -6,17 +6,17 @@ The Annual Technical Event at Silicon University, organised by Google Developer 
 ## Venue : Silicon University
 
 # Core Members:
-- Faculty-in-charge: Dr. Samaleswari Nayak
-- Chapter Lead: Jayadeep Dash
-- Nominated Representative: Jaydev Das
+#### - Faculty-in-charge: Dr. Samaleswari Nayak
+#### - Chapter Lead: Jayadeep Dash
+#### - Nominated Representative: Jaydev Das
 
-- AI/ML Lead: Ishaan Sinha
-- Web Dev Lead: Aditya Sharma
-- Cyber Security Lead: Aditya Kumar Singh
-- App Lead: Mrityunjay Sahoo
-- Event Lead: Biswajeet Ganthia
-- Game Dev Lead: Abhijeet Prusty
-- Social Media Lead: Sanchita Kiran
+##### - AI/ML Lead: Ishaan Sinha
+##### - Web Dev Lead: Aditya Sharma
+##### - Cyber Security Lead: Aditya Kumar Singh
+##### - App Lead: Mrityunjay Sahoo
+##### - Event Lead: Biswajeet Ganthia
+##### - Game Dev Lead: Abhijeet Prusty
+##### - Social Media Lead: Sanchita Kiran
 
 ## Organising Committee:
 - Pranab Mantry
@@ -25,5 +25,9 @@ The Annual Technical Event at Silicon University, organised by Google Developer 
 - Aditi Panda
 - Nikhil Kumar Rout
 - M Sai Prem Gyandeep
-
+- Shreyasree Panda
+- Swastik Padhee
+- Hitesh Rana
+- Sneha Sahu
+  
 
