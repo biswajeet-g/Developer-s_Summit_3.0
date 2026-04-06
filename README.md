@@ -110,6 +110,7 @@ Instead of speed or complexity, the competition evaluates how creatively partici
 
 ##### Engagement
 ![web atelir 1](https://github.com/user-attachments/assets/17ecda97-f620-435f-bc13-45e44964b6c2)
+
 ![web atelir 2](https://github.com/user-attachments/assets/c128e1a7-cc8a-4b47-be9e-adca2b1cef35)
 
 
@@ -176,6 +177,10 @@ Generating meeting notes from Google Docs
 Triggering workflows (e.g., save data → update sheet → send email)
 Bottom Line
 
+![IMG_0526](https://github.com/user-attachments/assets/e3860b8e-f6de-4804-bc3e-262cc3b90f38)
+
+![IMG_0514](https://github.com/user-attachments/assets/b1d87f70-c46d-462b-8b39-df032a284da5)
+
 ##### Speaker 2 : Rajani Ekunde
 ###### Shift-Left Container Security on GCP: Hardening Docker Images During CI/CD
 
@@ -200,7 +205,14 @@ Benefits
 - Stronger compliance and security posture
 - Faster, safer deployments
 
+![IMG_0537](https://github.com/user-attachments/assets/bc908f8c-0a31-430c-b8ab-c3b8d560a032)
+
+![IMG_0543](https://github.com/user-attachments/assets/693a69ee-dd67-47e4-b90b-0437ba65d3a0)
+
+
 ### Engagement of the Event
+![IMG_0637 (1)](https://github.com/user-attachments/assets/d8e5c744-c4b5-4ec1-94ae-f0e4dfa32646)
+
 ![reg 1](https://github.com/user-attachments/assets/26d22895-47e5-4e19-af50-852723ddd3a8)
 
 ![speaker 1](https://github.com/user-attachments/assets/be1f259e-807e-43cb-ac44-5cacc971338c)
