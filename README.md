@@ -115,8 +115,13 @@ The hackathon succeeded in fostering innovation among 52 participants, deliverin
 - Timeline : 9.15am to 12.30pm (first half) ; 1pm to 2.30pm (second half)
 
 #### Audience
-A total of 80 participants took part in the competition, forming  t33eams
-##### Description
+A total of 80 participants took part in the competition, forming  teams
+
+#### Winners
+- 1st Prize - Team Code Crafer (Md Rizvi Hassan Ansari, Nafees Ur Rahman Khan)
+- Runner's Up - Team Versatile (Aditya Kumar Sahoo, Ashish Kumar Mishra, Chagan Kumar Sahu)
+
+#### Description
 The Web Atelier was a creative web design challenge where participants worked in teams to transform a simple, static website into a visually impressive and interactive digital experience. Unlike traditional coding competitions, the event focused more on creativity, design thinking, and user experience rather than speed or complex backend development.
 
 ##### Key Takesways
@@ -149,28 +154,32 @@ Teams ensured originality by avoiding templates or copied designs and instead cr
 - Venue : Training Hall - 3
 - Timeline : 11am to 2.30pm
 
-##### Audience
+#### Audience
 Total Participation around 30-40 students from CSE,ECE and related branches.
 
-##### Description
+#### Winners
+- 1st Prize - Team AR Indexes (Raja vishwkarma,Amritanshu gupta) -> Silicon University
+- Runner's Up - Team web_force (Anshuman Behera,riya Rani,Naresh Mohapatra) -> Silicon University
+
+#### Description
 The event titled “WEB HUNT” was organized by Google Developer Groups (GDG) On Campus, Silicon University as part of its ongoing developer learning initiative.
 
 The session began with a brief introduction to Google Developer Groups (GDG) On Campus and its mission to cultivate a strong developer ecosystem within the university. The resource person for the event provided a detailed explanation of the fundamentals of version control, repository creation, branching, committing, and collaborating using Browser Inspection Tools..
 
 Participants learned about key Browser Inspection  commands, real-world collaboration workflows, and how Browser  is used in professional and open-source environments. The session included a hands-on demonstration where attendees practiced creating repositories, pushing commits, and managing pull requests.
 
-##### Key Takesways
+#### Key Takesways
 - Clear understanding of Browser Inspection Tools.
 - Hands-on experience in version control workflows.
 - Awareness of collaborative development practices in software projects.
 - Encouragement to contribute to open-source and personal development projects.
 
-##### Engagement
+#### Engagement
 ![web hunt 1](https://github.com/user-attachments/assets/9b7a0983-6e58-4e79-8113-1a3f9d7919d4)
 
 ![web hunt 2](https://github.com/user-attachments/assets/0e334619-d364-4fc9-9c03-9d9b9fbc0083)
 
-##### Conclusion
+#### Conclusion
 The event on “WEB HUNT” was highly informative and successfully met its objectives. It enhanced the technical competence of participants and encouraged them to adopt professional coding practices. GDG- On-Campus, Silicon University, aims to continue organizing such impactful sessions to foster a community of skilled and collaborative developers.
 
 ### Speaker Sessions
