@@ -46,6 +46,12 @@ The Capture The Flag (CTF) event was successfully conducted as part of the Devel
 #### Audience 
 A total of 24 participants took part in the competition, forming 10 teams. The event witnessed enthusiastic participation, with teams actively collaborating to solve challenges across various domains such as cryptography, web exploitation, reverse engineering, and forensics.
 
+#### Winners:
+- 1st Prize -> Team Garuda
+  (Jagadish tripathy,subham sahoo, soumya Ranjan sahoo) 
+- Runner's Up -> Team - SHM 
+ (Hitesh kumar Garnayak ,Sibu Behera,Mahesh Sahu) - Synergy institute of engineering and technology Dhenkanal
+
 ##### Description
 
 The competition was hosted on the CTFd platform, an open-source platform widely used for organizing CTF events. It provided participants with a centralized interface to view challenges, download necessary files, submit flags, and monitor their performance through a live scoreboard.
@@ -67,20 +73,38 @@ Overall, the CTF competition was a highly engaging and intellectually stimulatin
 
 ### Agentic AI
 #### Introduction
+The Agentic AI Hackathon was a highlight of Developers Summit 3.0,which referred to autonomous systems that go beyond simple responses—they observe goals, plan strategies, reason through steps, use tools, retrieve information, and execute actions independently. Unlike traditional chatbots, these agents operate with minimal human input, breaking down complex tasks into modular workflows powered by advanced LLMs and orchestration frameworks. This event introduced students to building such intelligent, goal-driven AI in a hands-on competitive format.
+
 #### Event Highlights
 - Event Moderator : Ishaan Sinha (23BEEH20)
 - Venue : Training Hall - 3
 - Timeline : 11am to 2pm (first half) ; 3pm to 5pm (second half)
 
 #### Audience 
+The event drew 52 students from Silicon University, participating individually or in teams of 2-3 members. These undergraduate developers engaged in a competitive yet collaborative environment, tackling real-world agentic AI challenges suitable for those with foundational knowledge of LLMs and frameworks.
+
+#### Winners:
+- 1st Prize - Team Sushi (Ayushi Singh) 3rd year, SU
+- Runner's Up - Team: 404 not found(Adarsh Choudhary, Anand Chaurasia, Ashish Singh), 3rd year all, SU
+
 ##### Description
+Teams selected from three problem statements 
+- (PS-01: general-purpose agentic tasks;
+- PS-02: workflow coordination;
+- PS-03: autonomous approval workflows) and
+  
+  built prototypes in a 5.5-hour window using tools like LangChain, LangGraph, Llama, Claude, and Groq API. The schedule included registration, problem reveal, building, live demos, and faculty evaluation on a 100-mark scale (50 for LLM integration, 50 for workflow reliability). Architectures mapped to "warrior" roles like Master planning and  tools, with mandatory GitHub submissions.
+
 ##### Key Takesways
+Participants proved functional agentic systems are buildable in hours using accessible tools, emphasizing modular designs blending LLM reasoning with deterministic logic. Hybrid architectures emerged naturally, with strong use of Anthropic Claude and Groq for speed; faculty praised pragmatic focus on working prototypes over perfection. The event boosted GDG community ties, highlighting student readiness for agentic AI trends.
+
 ##### Engagement
 ![agentic ai 1](https://github.com/user-attachments/assets/a5190f8f-7d59-45b4-9b05-c7d5d7a99053)
 
 ![agentic ai 2](https://github.com/user-attachments/assets/9c50d149-8b53-4710-af32-a113555ffbfd)
 
 ##### Conclusion
+The hackathon succeeded in fostering innovation among 52 participants, delivering hands-on agentic AI experience and positive feedback calling for more GDG events. It advanced Silicon University's developer community by teaching "software to move" autonomously, with standout solo and team efforts in approvals and multi-tool pipelines.
 
 ## Day 2 (4th April 2026)
 ### Web Atelir
