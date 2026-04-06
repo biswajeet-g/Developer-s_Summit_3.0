@@ -39,9 +39,9 @@ The Annual Technical Event at Silicon University, organised by Google Developer 
 The Capture The Flag (CTF) event was successfully conducted as part of the Developer’s Summit 3.0, engaging participants in a series of cybersecurity-based challenges designed to test their technical and analytical skills.
 
 #### Event Highlights
-##### Event Moderator : Aditya Kumar Singh (24BCSE93)
-##### Venue : Lecture Hall - 3 
-##### Timeline : 11am to 2pm (first half) ; 3pm to 5pm (second half)
+ - Event Moderator : Aditya Kumar Singh (24BCSE93)
+ - Venue : Lecture Hall - 3 
+ - Timeline : 11am to 2pm (first half) ; 3pm to 5pm (second half)
 
 #### Audience 
 A total of 24 participants took part in the competition, forming 10 teams. The event witnessed enthusiastic participation, with teams actively collaborating to solve challenges across various domains such as cryptography, web exploitation, reverse engineering, and forensics.
@@ -59,6 +59,7 @@ The live scoreboard on the platform added a competitive edge, encouraging teams 
 ##### Engagement
 ![ctf 1](https://github.com/user-attachments/assets/7103c7a1-0a50-4ee8-8bf8-9cd001ad389c)
 
+![ctf 2](https://github.com/user-attachments/assets/8ad269a3-ab95-482c-b2e7-9f96cf1e994c)
 
 ##### Conclusion
 
@@ -67,23 +68,27 @@ Overall, the CTF competition was a highly engaging and intellectually stimulatin
 ### Agentic AI
 #### Introduction
 #### Event Highlights
-##### Event Moderator : Ishaan Sinha (23BEEH20)
-##### Venue : Training Hall - 3
-##### Timeline : 11am to 2pm (first half) ; 3pm to 5pm (second half)
+- Event Moderator : Ishaan Sinha (23BEEH20)
+- Venue : Training Hall - 3
+- Timeline : 11am to 2pm (first half) ; 3pm to 5pm (second half)
 
 #### Audience 
 ##### Description
 ##### Key Takesways
 ##### Engagement
+![agentic ai 1](https://github.com/user-attachments/assets/a5190f8f-7d59-45b4-9b05-c7d5d7a99053)
+
+![agentic ai 2](https://github.com/user-attachments/assets/9c50d149-8b53-4710-af32-a113555ffbfd)
+
 ##### Conclusion
 
 ## Day 2 (4th April 2026)
 ### Web Atelir
 #### Introduction
 #### Event Highlights
-##### Event Moderator : Aditya Sharma (23BCSG66)
-##### Venue : Lecture Hall - 2
-##### Timeline : 9.15am to 12.30pm (first half) ; 1pm to 2.30pm (second half)
+- Event Moderator : Aditya Sharma (23BCSG66)
+- Venue : Lecture Hall - 2
+- Timeline : 9.15am to 12.30pm (first half) ; 1pm to 2.30pm (second half)
 
 #### Audience
 A total of 80 participants took part in the competition, forming  t33eams
@@ -91,15 +96,15 @@ A total of 80 participants took part in the competition, forming  t33eams
 The Web Atelier was a creative web design challenge where participants worked in teams to transform a simple, static website into a visually impressive and interactive digital experience. Unlike traditional coding competitions, the event focused more on creativity, design thinking, and user experience rather than speed or complex backend development.
 
 ##### Key Takesways
-•	Transform a basic website into an engaging experience
+-	Transform a basic website into an engaging experience
 Participants are given a simple/static website and their main goal is to redesign it into something visually attractive and interactive, making it more engaging for users.
-•	Focus on creative design and animations
+-	Focus on creative design and animations
 The challenge emphasizes creativity by encouraging the use of animations, transitions, and motion effects to make the website dynamic rather than plain and static.
-•	Improve user experience (UI/UX)
+-	Improve user experience (UI/UX)
 Participants must carefully design layouts, typography, and navigation so that the website is easy to use, visually balanced, and provides a smooth user journey.
-•	Use code or no-code tools effectively
+-	Use code or no-code tools effectively
 The objective is not limited to coding; participants can use both coding (like React) or no-code tools (like Figma/Wix) to build their solution, focusing on output quality rather than method.
-•	Promote innovation and creative problem-solving
+-	Promote innovation and creative problem-solving
 Instead of speed or complexity, the competition evaluates how creatively participants think, experiment, and bring unique ideas to life in their web designs.
 
 
@@ -115,9 +120,9 @@ Teams ensured originality by avoiding templates or copied designs and instead cr
 ### Web hunt
 #### Introduction
 #### Event Highlights
-##### Event Moderator : Mrityunjoy Sahoo (23BCSF02)
-##### Venue : Training Hall - 3
-##### Timeline : 11am to 2.30pm
+- Event Moderator : Mrityunjoy Sahoo (23BCSF02)
+- Venue : Training Hall - 3
+- Timeline : 11am to 2.30pm
 
 ##### Audience
 Total Participation around 30-40 students from CSE,ECE and related branches.
@@ -174,7 +179,7 @@ Bottom Line
 ##### Speaker 2 : Rajani Ekunde
 ###### Shift-Left Container Security on GCP: Hardening Docker Images During CI/CD
 
-Shift-left security means integrating security practices early in the development lifecycle—especially during the CI/CD pipeline—to detect and fix vulnerabilities before deployment.
+Shift-left security means integrating security practices early in the development lifecycle—especially during the CI/CD pipeline to detect and fix vulnerabilities before deployment.
 
 Core Idea
 
@@ -187,10 +192,7 @@ Key Practices
 - Static Analysis: Scan Dockerfiles for misconfigurations (e.g., root user, open ports).
 - Secrets Management: Avoid hardcoding secrets; use Google Secret Manager.
 - Non-root Containers: Enforce least privilege by running containers as non-root users.
-CI/CD Integration
-Automate scanning and policy checks in pipelines using Cloud Build
-Block deployments if vulnerabilities exceed severity thresholds
-Continuously monitor images post-build
+
 
 Benefits
 - Early detection of vulnerabilities
