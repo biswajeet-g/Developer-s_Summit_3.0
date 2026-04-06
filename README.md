@@ -25,7 +25,7 @@ The Annual Technical Event at Silicon University, organised by Google Developer 
 - Aditi Panda
 - Nikhil Kumar Rout
 - M Sai Prem Gyandeep
-- Shreyasree Panda
+- Shreyasee Panda
 - Swastik Padhee
 - Hitesh Rana
 - Sneha Sahu
